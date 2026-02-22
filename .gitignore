@@ -6,8 +6,11 @@ world_the_end/
 # Logs
 logs/
 
-# Server jar
+# Ignore all jar files
 *.jar
+
+# EXCEPTION: allow the main server jar
+!server.jar
 
 # Libraries & cache
 libraries/
