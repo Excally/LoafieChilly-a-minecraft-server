@@ -1,0 +1,37 @@
+preset: AUTO_DISENCHANTER
+'20':
+  ==: org.bukkit.inventory.ItemStack
+  v: 3837
+  type: BOOK
+  amount: 35
+'24':
+  ==: org.bukkit.inventory.ItemStack
+  v: 3837
+  type: DIAMOND_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '{"text":"","extra":[{"text":"Heroic Ares Greatsword of Conquering","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+    lore:
+    - '{"text":"","extra":[{"text":"Greatsword IV","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+    - '{"text":"","extra":[{"text":"Lifesteal II","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+    - '{"text":"","extra":[{"text":"A weapon unrivaled in conquest.","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+    Damage: 309
+    PublicBukkitValues: |-
+      {
+          "advancedenchantments:ae_enchantment-greatsword": 4,
+          "advancedenchantments:ae_enchantment-lifesteal": 2,
+          "advancedenchantments:slots": 2
+      }
+'25':
+  ==: org.bukkit.inventory.ItemStack
+  v: 3837
+  type: ENCHANTED_BOOK
+  meta:
+    ==: ItemMeta
+    meta-type: ENCHANTED
+    stored-enchants:
+      FIRE_ASPECT: 1
+      DAMAGE_ALL: 5
+      SWEEPING_EDGE: 3
+      DURABILITY: 2

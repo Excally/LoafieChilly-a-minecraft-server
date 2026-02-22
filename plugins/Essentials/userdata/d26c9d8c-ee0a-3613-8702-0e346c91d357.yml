@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.159.161.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767518790442
+  login: 1767518727481
+money: '0'
+last-account-name: MCPlayer7818
+lastlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 77.5
+  y: 69.0
+  z: -6.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 94.910904
+  y: 75.0
+  z: -10.732201
+  yaw: -13.562637329101562
+  pitch: 7.5586700439453125

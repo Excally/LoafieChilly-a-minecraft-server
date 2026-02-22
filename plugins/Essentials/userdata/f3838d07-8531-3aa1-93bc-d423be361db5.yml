@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.200.145.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1768071036067
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768078845034
+  login: 1768070514757
+money: '10000'
+last-account-name: Epen611
+lastlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 284.32721789534486
+  y: 13.0
+  z: 521.3047314595109
+  yaw: -23.6279296875
+  pitch: 23.12502098083496
+logoutlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 255.30619075183816
+  y: 65.0
+  z: 513.3004875324161
+  yaw: 3.24847412109375
+  pitch: 42.75000762939453
+homes:
+  mining:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: 254.69999998807907
+    y: 65.0
+    z: 513.3000000119209
+    yaw: -22.701528549194336
+    pitch: 41.725425720214844
+  rima:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: 98.35452004868202
+    y: 64.0
+    z: 271.7481461266827
+    yaw: 119.09138488769531
+    pitch: 16.105892181396484

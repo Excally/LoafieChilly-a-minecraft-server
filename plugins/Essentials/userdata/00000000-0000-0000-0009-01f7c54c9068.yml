@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.76.107.31
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767361635990
+  login: 1767361616435
+money: '10000'
+last-account-name: _Mizzukuro
+lastlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 80.5
+  y: 71.0
+  z: -22.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 54.68322
+  y: 63.0
+  z: 19.742373
+  yaw: -41.60523986816406
+  pitch: 28.87335205078125

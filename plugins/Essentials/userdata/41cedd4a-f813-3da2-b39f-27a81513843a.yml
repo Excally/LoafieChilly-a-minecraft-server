@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.58.104.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1767525725886
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767612277426
+  login: 1767611746892
+money: '10000'
+last-account-name: icell2654
+lastlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 56.682804
+  y: 64.0
+  z: 105.84254
+  yaw: 145.94903564453125
+  pitch: 38.38139343261719
+logoutlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 109.06781
+  y: 64.0
+  z: 270.29395
+  yaw: -45.5333251953125
+  pitch: -4.0914306640625

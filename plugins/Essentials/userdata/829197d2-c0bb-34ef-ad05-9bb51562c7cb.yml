@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.84.46.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768119642786
+  login: 1768119490359
+money: '10000'
+last-account-name: Fusion
+lastlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 78.5
+  y: 70.0
+  z: -9.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 224.15145365683412
+  y: 80.0
+  z: 115.73581785061529
+  yaw: -149.62606811523438
+  pitch: 33.61763000488281

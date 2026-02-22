@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.74.124.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768618052791
+  login: 1768617209931
+money: '10000'
+lastlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 62.39266
+  y: 65.0
+  z: -2756.607
+  yaw: 123.7308349609375
+  pitch: 17.399322509765625
+last-account-name: _LenaLane
+logoutlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 120.21898
+  y: 64.0
+  z: 223.75098
+  yaw: -129.81063842773438
+  pitch: 7.40557861328125

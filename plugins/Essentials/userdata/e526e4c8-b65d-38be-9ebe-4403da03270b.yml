@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1769155525633
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769156077607
+  login: 1769155489886
+money: '131164.11325000002997452'
+last-account-name: LenaLane
+lastlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 7092.708662165632
+  y: 97.52952096102372
+  z: 525.2216766759054
+  yaw: -154.7410888671875
+  pitch: 22.622352600097656
+logoutlocation:
+  world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+  world-name: world
+  x: 585.814824860432
+  y: 60.0
+  z: -1263.487500011921
+  yaw: -132.73077392578125
+  pitch: 24.55348777770996
+homes:
+  secret:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: 6950.63394997697
+    y: 13.0
+    z: 472.5122130921544
+    yaw: 89.94140625
+    pitch: 48.402706146240234
+  home:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: 267.58083829301063
+    y: 83.0
+    z: 185.45951154748343
+    yaw: -91.90237426757812
+    pitch: -7.724886417388916
+  slimelab:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: 270.69186555173155
+    y: 69.0
+    z: 184.69168150894234
+    yaw: 168.23031616210938
+    pitch: 43.55936050415039
+  storage:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: 270.9005819144128
+    y: 64.0
+    z: 184.38214021113097
+    yaw: 89.90924072265625
+    pitch: -3.647941827774048

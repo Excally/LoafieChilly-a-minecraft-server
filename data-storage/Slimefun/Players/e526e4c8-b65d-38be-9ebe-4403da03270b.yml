@@ -1,0 +1,1105 @@
+researches:
+  '0': true
+  '15': true
+  '32': true
+  '94': true
+  '123': true
+  '125': true
+  '143': true
+  '1': true
+  '4': true
+  '6': true
+  '18': true
+  '19': true
+  '20': true
+  '25': true
+  '30': true
+  '34': true
+  '35': true
+  '36': true
+  '37': true
+  '38': true
+  '41': true
+  '42': true
+  '43': true
+  '45': true
+  '47': true
+  '48': true
+  '50': true
+  '53': true
+  '54': true
+  '55': true
+  '57': true
+  '72': true
+  '73': true
+  '77': true
+  '80': true
+  '84': true
+  '86': true
+  '90': true
+  '92': true
+  '99': true
+  '101': true
+  '102': true
+  '104': true
+  '105': true
+  '106': true
+  '107': true
+  '108': true
+  '115': true
+  '118': true
+  '124': true
+  '126': true
+  '129': true
+  '132': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '138': true
+  '150': true
+  '164': true
+  '165': true
+  '202': true
+  '215': true
+  '235': true
+  '237': true
+  '239': true
+  '240': true
+  '242': true
+  '251': true
+  '253': true
+  '255': true
+  '95': true
+  '98': true
+  '261': true
+  '265': true
+  '2': true
+  '5': true
+  '7': true
+  '8': true
+  '9': true
+  '10': true
+  '11': true
+  '12': true
+  '13': true
+  '14': true
+  '16': true
+  '17': true
+  '21': true
+  '22': true
+  '23': true
+  '24': true
+  '26': true
+  '27': true
+  '28': true
+  '29': true
+  '31': true
+  '33': true
+  '40': true
+  '46': true
+  '51': true
+  '52': true
+  '56': true
+  '58': true
+  '59': true
+  '60': true
+  '61': true
+  '62': true
+  '63': true
+  '64': true
+  '65': true
+  '67': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '74': true
+  '75': true
+  '76': true
+  '79': true
+  '81': true
+  '85': true
+  '87': true
+  '89': true
+  '93': true
+  '96': true
+  '97': true
+  '100': true
+  '103': true
+  '111': true
+  '112': true
+  '116': true
+  '117': true
+  '119': true
+  '120': true
+  '121': true
+  '122': true
+  '127': true
+  '130': true
+  '137': true
+  '142': true
+  '144': true
+  '145': true
+  '146': true
+  '149': true
+  '151': true
+  '152': true
+  '155': true
+  '156': true
+  '157': true
+  '158': true
+  '159': true
+  '160': true
+  '161': true
+  '162': true
+  '163': true
+  '166': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '175': true
+  '176': true
+  '177': true
+  '178': true
+  '179': true
+  '180': true
+  '181': true
+  '182': true
+  '183': true
+  '184': true
+  '185': true
+  '186': true
+  '187': true
+  '188': true
+  '189': true
+  '190': true
+  '191': true
+  '192': true
+  '193': true
+  '194': true
+  '195': true
+  '196': true
+  '197': true
+  '198': true
+  '199': true
+  '200': true
+  '201': true
+  '203': true
+  '204': true
+  '205': true
+  '206': true
+  '207': true
+  '208': true
+  '209': true
+  '211': true
+  '212': true
+  '213': true
+  '214': true
+  '216': true
+  '217': true
+  '218': true
+  '219': true
+  '220': true
+  '221': true
+  '222': true
+  '223': true
+  '224': true
+  '225': true
+  '226': true
+  '227': true
+  '228': true
+  '229': true
+  '230': true
+  '231': true
+  '232': true
+  '233': true
+  '234': true
+  '236': true
+  '241': true
+  '243': true
+  '244': true
+  '245': true
+  '246': true
+  '247': true
+  '248': true
+  '249': true
+  '250': true
+  '252': true
+  '254': true
+  '256': true
+  '257': true
+  '258': true
+  '259': true
+  '260': true
+  '262': true
+  '263': true
+  '264': true
+  '266': true
+  '267': true
+  '268': true
+  '269': true
+  '270': true
+  '271': true
+  '272': true
+  '273': true
+  '274': true
+  '275': true
+  '276': true
+  '277': true
+  '278': true
+  '279': true
+  '280': true
+  '281': true
+backpacks:
+  '0':
+    size: 18
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 51
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Sifted Ore","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SIFTED_ORE"
+            }
+  '1':
+    size: 54
+    contents:
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ANCIENT_DEBRIS
+        amount: 2
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: BONE_BLOCK
+        amount: 5
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: PISTON
+        amount: 4
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 386
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: CRYING_OBSIDIAN
+        amount: 8
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: STONE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 129
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ACTIVATOR_RAIL
+        amount: 36
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Basic Circuit Board","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "BASIC_CIRCUIT_BOARD"
+            }
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: BUCKET
+        amount: 6
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LAVA_BUCKET
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_BLOCK
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLD_BLOCK
+        amount: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_BLOCK
+        amount: 4
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: WHITE_WOOL
+        amount: 2
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: OBSIDIAN
+        amount: 5
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LAVA_BUCKET
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LAVA_BUCKET
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: FISHING_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+          Damage: 28
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: SHEARS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 65
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 1
+          Damage: 225
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: SHIELD
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            MENDING: 1
+          Damage: 47
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ARROW
+        amount: 39
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: SPECTRAL_ARROW
+        amount: 12
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: MUTTON
+        amount: 3
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_INGOT
+        amount: 64
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_INGOT
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_INGOT
+        amount: 40
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLD_INGOT
+        amount: 5
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: MUSIC_DISC_CAT
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: NETHERITE_INGOT
+      '47':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Gold Pan","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false},{"text":"
+            to collect resources","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"from Gravel","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "GOLD_PAN"
+            }
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: OAK_PLANKS
+        amount: 8
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GLASS
+        amount: 56
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: BLAST_FURNACE
+        amount: 2
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LAVA_BUCKET
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LAPIS_BLOCK
+        amount: 5
+      '45':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: STICK
+        amount: 64
+      '46':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: FLINT
+        amount: 55
+      '48':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GUNPOWDER
+        amount: 6
+      '50':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE
+      '51':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            ARROW_DAMAGE: 5
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_INGOT
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+          Damage: 6
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GLASS
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: CHEST
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLDEN_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          Damage: 5
+      '49':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: NETHERITE_UPGRADE_SMITHING_TEMPLATE
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: FLINT_AND_STEEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 28
+      '52':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 223
+      '53':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_SHOVEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 236
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: EMERALD
+        amount: 3
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: COAL_BLOCK
+        amount: 59
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: REDSTONE_BLOCK
+        amount: 4
+  '2':
+    size: 54
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: OBSIDIAN
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Wither-Proof Obsidian","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_purple","bold":false}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Withstands Explosions","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Withstands Wither Bosses","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+          custom-model-data: 2200336
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "WITHER_PROOF_OBSIDIAN"
+            }
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: PLAYER_HEAD
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Battery","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "BATTERY"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: ca98153c-01b1-3501-9384-693a54b49f3f
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmUyZGRhNmVmNjE4NWQ0ZGQ2ZWE4Njg0ZTk3ZDM5YmE4YWIwMzdlMjVmNzVjZGVhNmJkMjlkZjhlYjM0ZWUifX19
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: PLAYER_HEAD
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Magnet","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "MAGNET"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: b47e7f73-0831-3936-b6a6-d4702f249a13
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhOGViYzRjNmE4MTczMDk0NzQ5OWJmN2UxZDVlNzNmZWQ2YzFiYjJjMDUxZTk2ZDM1ZWIxNmQyNDYxMGU3In19fQ==
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: PLAYER_HEAD
+        amount: 13
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Electromagnet","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "ELECTRO_MAGNET"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: b47e7f73-0831-3936-b6a6-d4702f249a13
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhOGViYzRjNmE4MTczMDk0NzQ5OWJmN2UxZDVlNzNmZWQ2YzFiYjJjMDUxZTk2ZDM1ZWIxNmQyNDYxMGU3In19fQ==
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LIGHT_GRAY_STAINED_GLASS
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Hardened Glass","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Withstands Explosions","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+          custom-model-data: 2200333
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "HARDENED_GLASS"
+            }
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ENDER_EYE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Magic Eye of Ender","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":true}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"Requires full Ender Armor","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":true}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","italic":false,"color":"yellow"},{"text":"
+            to shoot an Ender Pearl","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "MAGIC_EYE_OF_ENDER"
+            }
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: STRING
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Copper Wire","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Crucial component in electric modules","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "COPPER_WIRE"
+            }
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Synthetic Diamond","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"This item can be used in a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+          - '{"text":"","extra":[{"text":"workbench and acts like a normal Diamond","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"white","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "SYNTHETIC_DIAMOND"
+            }
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLD_NUGGET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Magical Lump ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false},{"text":"-
+            ","italic":false,"color":"gray"},{"text":"I","italic":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Tier: I","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "MAGIC_LUMP_1"
+            }
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLD_NUGGET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Magical Lump ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false},{"text":"-
+            ","italic":false,"color":"gray"},{"text":"I","italic":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Tier: I","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "MAGIC_LUMP_1"
+            }
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLD_NUGGET
+        amount: 40
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Magical Lump ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false},{"text":"-
+            ","italic":false,"color":"gray"},{"text":"I","italic":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Tier: I","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "MAGIC_LUMP_1"
+            }
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLD_NUGGET
+        amount: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Magical Lump ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false},{"text":"-
+            ","italic":false,"color":"gray"},{"text":"II","italic":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Tier: II","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"red","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "MAGIC_LUMP_2"
+            }
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: PAPER
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Cloth","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "CLOTH"
+            }
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: STRING
+        amount: 42
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Copper Wire","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Crucial component in electric modules","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "COPPER_WIRE"
+            }
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_INGOT
+        amount: 32
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Reinforced Alloy Ingot","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":true}]}'
+          custom-model-data: 2200077
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "REINFORCED_ALLOY_INGOT"
+            }
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LEATHER_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: COLORABLE_ARMOR
+          display-name: '{"text":"","extra":[{"text":"Electric Jetpack ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":false},{"text":"-
+            ","italic":false,"color":"gray"},{"text":"IV","italic":false,"color":"yellow"}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"⇨ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":false},{"text":"Material:
+            ","italic":false,"color":"gray"},{"text":"Steel","italic":false,"color":"aqua"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":false},{"text":"⚡
+            ","italic":false,"color":"yellow"},{"text":"0 / 60 J","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"⇨ ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":false},{"text":"Thrust:
+            ","italic":false,"color":"gray"},{"text":"0.5","italic":false,"color":"red"}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Crouch","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false},{"text":"
+            to use","italic":false,"color":"gray"}]}'
+          custom-model-data: 2200123
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "STEEL_JETPACK"
+            }
+          color:
+            ==: Color
+            ALPHA: 255
+            RED: 192
+            BLUE: 192
+            GREEN: 192
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Portable Crafter","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          lore:
+          - '{"text":"","extra":[{"text":"A portable Crafting Table","obfuscated":false,"italic":true,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false},{"text":"
+            to open","italic":false,"color":"gray"}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "PORTABLE_CRAFTER"
+            }
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: bf9f1fb2-ced3-33ca-9d58-eb76edcbfa78
+            name: CS-CoreLib
+            properties:
+            - name: textures
+              value: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzJlYzRhNGJkOGE1OGY4MzYxZjhhMDMwM2UyMTk5ZDMzZDYyNGVhNWY5MmY3Y2IzNDE0ZmVlOTVlMmQ4NjEifX19
+  '3':
+    size: 27
+    contents: {}
+  '4':
+    size: 27
+    contents: {}

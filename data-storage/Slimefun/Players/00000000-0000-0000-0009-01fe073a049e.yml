@@ -1,0 +1,117 @@
+researches:
+  '32': true
+  '1': true
+  '2': true
+  '5': true
+  '12': true
+  '244': true
+  '254': true
+  '0': true
+  '4': true
+  '6': true
+  '30': true
+  '86': true
+  '105': true
+  '54': true
+  '18': true
+  '35': true
+  '53': true
+  '15': true
+  '46': true
+  '25': true
+  '43': true
+  '60': true
+  '19': true
+  '38': true
+  '276': true
+  '8': true
+  '45': true
+  '58': true
+  '92': true
+  '99': true
+  '239': true
+  '255': true
+  '240': true
+backpacks:
+  '0':
+    size: 27
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - '{"text":"","extra":[{"text":"Ravenous II","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Blind II","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Poison III","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"aqua","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Interrupt I","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false}]}'
+          - '{"text":"","extra":[{"text":"Nulify III","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"light_purple","bold":false}]}'
+          enchantment-glint-override: true
+          Damage: 2
+          PublicBukkitValues: |-
+            {
+                "advancedenchantments:ae_enchantment-blind": 2,
+                "advancedenchantments:ae_enchantment-interrupt": 1,
+                "advancedenchantments:ae_enchantment-nulify": 3,
+                "advancedenchantments:ae_enchantment-poison": 3,
+                "advancedenchantments:ae_enchantment-ravenous": 2,
+                "advancedenchantments:slots": 4
+            }
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: MAP
+        amount: 4
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: BLACKSTONE
+        amount: 4
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: BONE
+        amount: 6
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: STRING
+        amount: 20
+  '1':
+    size: 27
+    contents:
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLDEN_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          Damage: 78
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LEATHER_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: COLORABLE_ARMOR
+          Damage: 53
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: GOLDEN_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          Damage: 76
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: LEATHER_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: COLORABLE_ARMOR
+          Damage: 41

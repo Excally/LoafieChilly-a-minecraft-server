@@ -1,0 +1,9 @@
+#By changing the setting below to TRUE you are indicating your agreement to our EULA (https://aka.ms/MinecraftEULA).
+#Thu Jan 01 19:38:33 ICT 2026
+eula=TRUE
+
+
+/lp group member parent add default
+/lp group vip parent add member
+/lp group moderator parent add vip
+/lp group admin parent add moderator

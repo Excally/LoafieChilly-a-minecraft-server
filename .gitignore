@@ -1,0 +1,21 @@
+# Worlds
+world/
+world_nether/
+world_the_end/
+
+# Logs
+logs/
+
+# Server jar
+*.jar
+
+# Libraries & cache
+libraries/
+cache/
+
+# Crash reports
+crash-reports/
+
+# Banned players
+banned-ips.json
+banned-players.json

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.56.27.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1768747486486
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1768747825015
+  login: 1768745131922
+money: '19218.54200000000001908'
+last-account-name: dodo07
+lastlocation:
+  world: cc8c64d8-53f6-45c7-bf76-09b9eed8b8ec
+  world-name: world_nether
+  x: 116.30759815629183
+  y: 72.0
+  z: -20.877407319402305
+  yaw: 80.7353515625
+  pitch: 11.85905933380127
+logoutlocation:
+  world: cc8c64d8-53f6-45c7-bf76-09b9eed8b8ec
+  world-name: world_nether
+  x: 104.69999998807907
+  y: 103.0
+  z: 11.696700519154568
+  yaw: 99.64190673828125
+  pitch: 20.258928298950195
+homes:
+  home:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: 225.74217099598843
+    y: 67.0
+    z: 391.0441217570558
+    yaw: -23.293701171875
+    pitch: 45.000240325927734

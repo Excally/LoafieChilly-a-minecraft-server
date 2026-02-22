@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.96.12.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1767769829233
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767771805588
+  login: 1767770264185
+money: '24783.39584999999998257'
+last-account-name: _Treev1a
+logoutlocation:
+  world: cc8c64d8-53f6-45c7-bf76-09b9eed8b8ec
+  world-name: world_nether
+  x: -191.91718
+  y: 34.0
+  z: -97.88274
+  yaw: 137.05670166015625
+  pitch: -29.507858276367188
+lastlocation:
+  world: cc8c64d8-53f6-45c7-bf76-09b9eed8b8ec
+  world-name: world_nether
+  x: -38.734947
+  y: 70.0
+  z: -128.88689
+  yaw: -37.920166015625
+  pitch: 16.579727172851562
+homes:
+  s:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: -329.5
+    y: 68.0
+    z: -1039.5
+    yaw: -177.93301391601562
+    pitch: -5.481719970703125
+  c:
+    world: 1c13fd23-f48d-4d09-8b4c-711dd0a69b9f
+    world-name: world
+    x: -623.5918
+    y: 8.0
+    z: -1010.6851
+    yaw: 95.02401733398438
+    pitch: 8.646621704101562
+  a:
+    world: cc8c64d8-53f6-45c7-bf76-09b9eed8b8ec
+    world-name: world_nether
+    x: -177.51741
+    y: 35.0
+    z: -115.24758
+    yaw: 40.41746520996094
+    pitch: 11.041183471679688

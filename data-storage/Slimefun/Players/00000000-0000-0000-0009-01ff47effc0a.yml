@@ -1,0 +1,151 @@
+researches:
+  '1': true
+  '105': true
+  '54': true
+  '0': true
+  '32': true
+  '53': true
+  '18': true
+  '92': true
+  '99': true
+  '6': true
+  '89': true
+  '35': true
+  '42': true
+  '102': true
+  '30': true
+  '38': true
+  '50': true
+  '132': true
+  '133': true
+  '240': true
+  '107': true
+  '239': true
+  '255': true
+  '95': true
+  '134': true
+  '129': true
+  '138': true
+  '135': true
+  '136': true
+  '29': true
+  '51': true
+  '98': true
+  '4': true
+  '101': true
+  '19': true
+  '34': true
+  '36': true
+  '41': true
+  '45': true
+  '47': true
+  '55': true
+  '20': true
+  '37': true
+  '43': true
+  '48': true
+  '73': true
+  '115': true
+  '8': true
+  '16': true
+  '60': true
+  '74': true
+  '190': true
+  '269': true
+  '17': true
+  '21': true
+  '116': true
+  '33': true
+  '137': true
+  '28': true
+  '241': true
+backpacks:
+  '0':
+    size: 27
+    contents:
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          Damage: 427
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: WATER_BUCKET
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_SHOVEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+          Damage: 133
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: COBBLESTONE
+        amount: 40
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ACACIA_PLANKS
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ACACIA_PLANKS
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: ACACIA_PLANKS
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+          Damage: 2
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          Damage: 476
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: IRON_CHESTPLATE
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: COOKED_PORKCHOP
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3837
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Gold Pan","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gold","bold":false}]}'
+          lore:
+          - '""'
+          - '{"text":"","extra":[{"text":"Right Click","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"yellow","bold":false},{"text":"
+            to collect resources","italic":false,"color":"gray"}]}'
+          - '{"text":"","extra":[{"text":"from Gravel","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"gray","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "slimefun:slimefun_item": "GOLD_PAN"
+            }
